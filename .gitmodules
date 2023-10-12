@@ -1,0 +1,3 @@
+[submodule "charts/MultiPaperHelm"]
+	path = charts/MultiPaperHelm
+	url = https://github.com/Schmoaaaaah/MultiPaperHelm.git
